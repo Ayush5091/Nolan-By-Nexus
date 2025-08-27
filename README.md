@@ -227,7 +227,7 @@ const response = await fetch(GEMINI_API_URL, {
 
 **Clone the project**
 ```bash
-git clone https://link-to-project
+git clone https://https://github.com/Ayush5091/Nolan-By-Nexus.git
 ```
 
 **Go to the project directory**
